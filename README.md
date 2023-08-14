@@ -73,3 +73,11 @@ To create a dictionary using our friend's data, follow these steps:
 
 2. Display the modified scatter plot.
 
+
+
+<img align='right' alt='pand' width='200' src="https://github.com/Hezron26/assets/blob/main/fam.png" >
+
+![lazy p](https://user-images.githubusercontent.com/55835551/226184555-72e10ba4-372b-4040-8d6b-cfd2537cc709.jpg)
+
+
+Website_Profile [n_h_e_z_r_o_n_](https://sites.google.com/view/zadhron/home)
