@@ -73,4 +73,3 @@ To create a dictionary using our friend's data, follow these steps:
 
 2. Display the modified scatter plot.
 
-Feel free to ask if you have any questions or require further assistance with these project instructions.
